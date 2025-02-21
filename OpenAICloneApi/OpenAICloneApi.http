@@ -1,0 +1,6 @@
+@OpenAICloneApi_HostAddress = http://localhost:5001
+
+GET {{OpenAICloneApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
